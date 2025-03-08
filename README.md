@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/venu-kumar-gudidha-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venu-kumar-gudidha-" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/23951a66p7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="23951a66p7" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/23951a66p7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="23951a66p7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
