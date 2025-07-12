@@ -28,14 +28,14 @@ I bring to the table:
 <br>
 <h3 align="left">Coding Profiles :</h3>
 <p align="left">
-  <a href="https://www.geeksforgeeks.org/user/23951a66p7/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/23951a66p7" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="23951a66p7" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/23951A66P7/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
+  <a href="https://www.geeksforgeeks.org/user/23951a66p7/" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" /> GeeksForGeekd
+  </a><br><br>
+  <a href="https://www.hackerrank.com/23951a66p7" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="23951a66p7" height="30" width="40" /> Hackerrank
+  </a><br><br>
+  <a href="https://leetcode.com/u/23951A66P7/" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />Leetcode
   </a>
 </p>
   
